@@ -1,4 +1,4 @@
-# Autonomous-Driving-Deep-Reinforcement-Learning-
+# Autonomous-Driving-Deep-Reinforcement-Learning
 
 My project goal is to train a vehicle to drive autonomously by navigating lanes, avoiding obstacles, and controlling its speed appropriately.
 
